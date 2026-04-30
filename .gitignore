@@ -1,2 +1,2 @@
-.env
+#Here i use .toml file to store the sensitive information like API keys and email credentials securely. This way, I can keep my secrets safe while still being able to access them in my Streamlit application during deployment.
 streamlit/secrets.toml
